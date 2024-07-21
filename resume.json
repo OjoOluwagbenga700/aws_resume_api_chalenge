@@ -1,0 +1,90 @@
+
+{
+    "resume": {
+      "S": "Ojo_Samuel_Resume"
+    },
+    "basics": {
+      "M": {
+        "location": {
+          "M": {
+            "address": {
+              "S": "Federal Housing Estate Lugbe"
+            },
+            "city": {
+              "S": "Abuja"
+            },
+            "countryCode": {
+              "S": "NG"
+            },
+            "postalCode": {
+              "S": "23401"
+            },
+            "region": {
+              "S": "FCT"
+            }
+          }
+        },
+        "name": {
+          "S": "Ojo Samuel O"
+        },
+        "phone": {
+          "S": "+2348099444955"
+        },
+        "summary": {
+          "S": "A summary of Ojo Samuel's work experience and Certification."
+        }
+        
+      }
+    },
+   
+    "jobExperience": {
+      "M": {
+        "company": {
+          "S": "7Hundred Tecknologies Ltd."
+        },
+        "position": {
+          "S": "Devops Engineer"
+        },
+        "startDate": {
+          "S": "2023-01-15"
+        },
+        "endDate": {
+          "S": "till-date"
+        },
+        "responsibilities": {
+          "S": "Developed and maintained web applications, collaborated with cross-functional teams, and optimized performance."
+        }
+      }
+    },
+    "certification": {
+      "M": {
+        "name": {
+          "S": "AWS Certified Solutions Architect Associates"
+        },
+        "institution": {
+          "S": "Amazon Web Services"
+        },
+        "date": {
+          "S": "2022"
+        },
+        "credlyLink": {
+          "S": "https://www.credly.com/earner/earned/badge/95281f78-ede8-4112-a348-d39a230320b2"
+        }
+      },
+     
+        "name": {
+          "S": "AWS Certified Sysops Administartor Associates"
+        },
+        "institution": {
+          "S": "Amazon Web Services"
+        },
+        "date": {
+          "S": "2023"
+        },
+        "credlyLink": {
+          "S": "https://www.credly.com/earner/earned/badge/ab1d0b6b-09f7-4b2a-9438-503d31b99acb"
+        }
+      }  
+    }
+  
+  
